@@ -2,4 +2,4 @@
 ### Curator: Alexander Sukhochev
 ### Student: Anton Panchenko
 
-Here is the code for the semester practical project in Computer Science Center (Fall-Winter 2018).
+Here is the code for the semester practical project in Computer Science Center (Fall 2018/2019).
